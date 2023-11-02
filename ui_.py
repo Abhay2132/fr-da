@@ -44,3 +44,4 @@ class SearchBar(ctk.CTkFrame) :
 		self.submit.grid(padx=(3,0), row=0, column=1)
 		
 		
+		
